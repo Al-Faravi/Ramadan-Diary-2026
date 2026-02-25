@@ -47,5 +47,6 @@
 > 
 > *(জামে তিরমিজি: ২১৪০)*
 
+> 
 ---
 *Commit message idea: `Add Day 07: Expanded reflection on consistency, Taqwa backend & spiritual CI`*
